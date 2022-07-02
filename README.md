@@ -1,3 +1,3 @@
 # HyperResNet
 
-![assets/HyperResNetA.png](assets/HyperResNetA.png)
+![assets/HyperResNet.png](assets/HyperResNet.png)
